@@ -1505,7 +1505,7 @@ msgstr "Zaloguj się"
 
 #: includes/avada-functions.php:446
 msgid "Register"
-msgstr ""
+msgstr "Zarejestruj"
 
 #. translators: Number of items.
 #: includes/avada-functions.php:516
