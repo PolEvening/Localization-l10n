@@ -15086,16 +15086,16 @@ msgstr "Szukaj..."
 #. link.
 #: templates/wc-top-user-container.php:22
 msgid "Hello %1$s (not %2$s? %3$s)"
-msgstr ""
+msgstr "Witaj %1$s (Nie jesteś %2$s? %3$s)"
 
 #: templates/wc-top-user-container.php:25
 msgid "Sign Out"
-msgstr ""
+msgstr "Wyloguj"
 
 # @ Avada
 #: templates/wc-top-user-container.php:30
 msgid "Hello"
-msgstr ""
+msgstr "Witaj"
 
 #: templates/wc-view-order.php:25
 msgid "Order details"
